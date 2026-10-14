@@ -1,0 +1,21 @@
+# Mac & Windows OS files
+.DS_Store
+Thumbs.db
+
+# Python / Backend
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+.env
+backend/.env
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
